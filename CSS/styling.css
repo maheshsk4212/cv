@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  
+  
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+.copywrite {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+p {
+  line-height: 2;
+}
+
+.btn-contact-me {
+width: 180px;
+padding: 15px;
+ background-color: #11999E;
+ border-radius: 10px;
+ border: solid 0px;
+ color: white;
+ margin-bottom: 100px;
+ cursor: pointer;
+ font-size: 18px;
+  
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0px auto;
+  font-size: 90px;
+  color: #66bfbf;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+  .container1 {
+    background-color: #e4f9f5;
+    margin: 10PX;
+    padding: 20px;
+    position: relative;
+    padding-top: 100px;
+ }
+
+.container2 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin: 10PX;
+  border: solid black 20px;
+}
+.container3{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+margin: 10px;
+border: solid 10px;}
+
+.get-in-touch {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.my-intro {
+  width: 800px;
+  margin: auto;
+  font-size: 15px;
+  color: rgb(84, 84, 84);
+}
+.line {
+  border-top: 4px dotted #66bfbf;
+  width: 4%;
+  margin: 100px auto;
+
+}
+.product {
+  font-size: 30px;
+  
+}
+.pizza-title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.pizza-description {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 40%;
+  margin: 40px auto 60px;
+  
+}
+
+.profile-pic {
+  width: 200px;
+  margin: 50px ;
+  border: 2px dotted #66bfbf;
+  border-radius: 100px;
+}
+
+.skill-tools-title{
+  padding-top: 20px;
+}
+.skill-row {
+  width: 50%;
+  margin: 40px auto 40px auto;
+  text-align: left;
+  
+}
+
+.skill-icon1 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-icon2 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+
